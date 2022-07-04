@@ -16,3 +16,25 @@ nav {
   width: 82.02px;
   height: 25.35px;
 }
+
+section {
+  padding: 20px;
+}
+
+.hero-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-image {
+  max-width: 400px;
+  align-self: center;
+}
+
+.hero-title {
+  margin-bottom: 16px;
+}
+
+.hero-description {
+  margin-top: 0;
+}
