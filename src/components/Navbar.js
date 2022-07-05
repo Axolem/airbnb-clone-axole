@@ -1,4 +1,4 @@
-import logo from '../assets/Vector.png';
+import logo from './assets/Vector.png';
 
 const Navbar = () => {
   return (

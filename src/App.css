@@ -38,3 +38,46 @@ section {
 .hero-description {
   margin-top: 0;
 }
+
+
+.rating,
+.grey-text {
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 13px;
+
+}
+
+.card {
+  width: 175px;
+}
+
+.card-img {
+  width: 100%;
+  height: 235px;
+  border-radius: 9px;
+}
+
+.star {
+  color: #FE395C;
+  font-size: 14px;
+}
+
+.grey-text {
+  color: #918E9B;
+}
+
+.card-description {
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 110%;
+}
+
+.card-price {
+  font-size: 12px;
+  line-height: 110%;
+}
+
+.bold-text {
+  font-weight: 600;
+}
