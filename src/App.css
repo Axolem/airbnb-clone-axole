@@ -47,9 +47,13 @@ section {
   line-height: 13px;
 
 }
-
+.cards-holder{
+  display: flex;
+  padding: 0 20px;
+}
 .card {
   width: 175px;
+  margin-right: 18px;
 }
 
 .card-img {
