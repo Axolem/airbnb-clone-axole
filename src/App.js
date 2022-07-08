@@ -8,13 +8,7 @@ function App() {
     return (
       <Card
         key={item.id}
-        img={item.img}
-        rating={item.stats.rating}
-        reviewCount={item.stats.reviewCount}
-        country={item.location}
-        title={item.title}
-        price={item.price}
-        openSports={item.openSports}
+        item={item}
       />
     );
   });
