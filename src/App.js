@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import Card from "./components/Card";
 import data from "./Data"
 function App() {
-  const card = data.map(function(item) { 
+  const card = data.map(item => { 
     return(
       <Card
           img={item.img}
